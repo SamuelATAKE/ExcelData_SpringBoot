@@ -102,6 +102,5 @@ public class Commune {
     public String toString() {
         return "Commune{" + "id=" + id + ", nom=" + nom + ", prefecture=" + prefecture + '}';
     }
-    
-    
+   
 }
